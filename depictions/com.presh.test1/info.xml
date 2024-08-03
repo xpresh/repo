@@ -1,1 +1,29 @@
-
+<package>
+	<id>com.presh.test1</id>
+	<name>Full Package</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>1.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>This is a test package</shortDescription>
+	<descriptionlist>
+		</description>
+	</descriptionlist>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>repo</name>
+			<url>https://xpresh.github.io/repo</url>
+			<iconclass>fa fa-link</iconclass>
+		</link>
+	</links>
+</package>
